@@ -18,6 +18,7 @@ I am a passionate and proficient web developer with a strong dedication to craft
 
 Technical Expertise: My expertise lies in both front-end and back-end development. I am well-versed in HTML, CSS, and JavaScript, ensuring that I can create visually stunning and responsive web applications. I am experienced in using modern front-end frameworks like React and Angular.
 
+
 Back-End Proficiency: On the back-end, I have hands-on experience with technologies such as Node.js, Express, and databases like MongoDB and SQL. This allows me to build robust server-side solutions and design efficient databases.
 
 Responsive Design: Crafting websites that offer a seamless user experience across various devices is a priority. I have a strong understanding of responsive web design principles, ensuring that websites function flawlessly on different screen sizes and orientations.
