@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-scroll";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGlobe, faSearch } from "@fortawesome/free-solid-svg-icons"; // Import FontAwesome icons for search
+
 
 
 
@@ -37,10 +36,7 @@ function Navbar() {
     }
   }, []);
 
-  const handleFormSubmit = (event) => {
-    event.preventDefault();
-    // Handle the search query as needed, e.g., navigate to search results.
-  };
+
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
